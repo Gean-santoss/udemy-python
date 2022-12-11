@@ -1,4 +1,2 @@
-print('ola mundo')
 def aula():
-
-
+    ola
